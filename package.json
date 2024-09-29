@@ -29,7 +29,7 @@
     "react-dom": "^18",
     "tailwind-merge": "^2.5.2",
     "tailwindcss-animate": "^1.0.7",
-    "autoprefixer": "^10.x" // Move here if necessary
+    "autoprefixer": "^10.0"
   },
   "devDependencies": {
     "@types/node": "^20",
